@@ -20,3 +20,6 @@ pip install -r requirements.txt
 
 # Results
 The implemented regression models have a plus or minus margin of error, around 5% of the general mean.
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
